@@ -1,0 +1,23 @@
+input[type="text"]{
+width: 550px;
+}
+input[type="date"]{
+    width:550px;
+    }
+    input[type="location"]{
+        width: 550px;
+        }
+
+
+
+.skills{
+background-color: #8f799e;
+color:aliceblue;
+
+}
+
+form{
+    margin-left: 200px;
+    
+   
+}
